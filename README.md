@@ -20,8 +20,8 @@ A Python-based tool that detects phishing websites using both rule-based logic a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/phishing-website-detector.git
-   cd phishing-website-detector
+   git clone https://github.com/DR13X/Phishing-Website-Detection-Tool.git
+   cd Phishing-Website-Detection-Tool
    ```
 2.**Create and activate virtual environment**:
 
@@ -44,3 +44,4 @@ chmod +x phishing_detector.py
 
 ```bash
 python phishing_detector.py
+```
